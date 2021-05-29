@@ -1,0 +1,54 @@
+h1 {
+    color: red;
+}
+
+.links {
+    text-align: center;
+}
+
+.link1 {
+    padding-right: 8px;
+}
+
+.link3 {
+    padding-left: 8px;
+}
+
+h2 {
+    color: blue;
+}
+
+.tur {
+    list-style-position: inside;
+    text-align: center;
+    color: darkgoldenrod;
+}
+
+.list {
+    color: brown;
+    font-size: 18px;
+}
+
+p {
+    padding-top: 9px;
+    padding-bottom: 15px;
+}
+
+.about2 {
+    text-align: center;
+}
+
+.about2 h3 {
+    color: darkgoldenrod;
+}
+
+.product2 {
+    text-align: center;
+    padding: 40px;
+}
+
+.product2 li {
+    padding-top: 15px;
+    padding-bottom: 55px;
+    font-size: 20px;
+}
